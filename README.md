@@ -1,15 +1,15 @@
-# Name: Evan Butler
-# Date:
+# Name: Evan Butler & Kelly de Vries
+# Date: April 22, 2015.
 
-Description:
+Description: Site for keeping track of which students are taking which courses.
 
-# SetUp and Use
+##SetUp
 
-SetUp
+1. Clone repository.
+2. Start local server in root folder.
+3. Navigate to local server in web browser.
 
-1.
-
-# Copyright (c) 2015 (Evan Butler)
+# Copyright (c) 2015 (Evan Butler & Kelly de Vries)
 
 # The MIT License (MIT)
 
